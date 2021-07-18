@@ -1,2 +1,2 @@
 # ilman-resolusi
-repository unutk menyimpsn rencana ilman kedepannya
+repository unutk menyimpan rencana ilman kedepannya
