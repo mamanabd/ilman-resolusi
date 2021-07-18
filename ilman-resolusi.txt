@@ -3,4 +3,4 @@ ILMAN RESOLUSI
 - KONSISTEN FLUTTER LEARNING 1 HARI 4 JAM
 - MEMBUAT APLIKASI MULTI-PLATFORM BERBASIS FLUTTER
 - IPK 3.7 ketika lulus
-- peningkatan e-rice
+- membuat konten menarik buat lk rice shop
