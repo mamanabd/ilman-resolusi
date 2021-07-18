@@ -2,6 +2,6 @@ RENCANA KONTEN LKRICESHOP
 
 - promo buy 2 get 1
   - promo cuma buat ciherang
-- fundamental giling beras
 - video learn penggilingan beras
 - vlog di sawah
+- bikin flutter app
